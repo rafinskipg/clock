@@ -1,5 +1,7 @@
 ## Canvas clock demo
 
+Thanks for the calculus to @Sara_Subidon
+
 The function needed for calculating a exact point in the circumference given a radius is this one:
 
 We know the angle of movement: 
